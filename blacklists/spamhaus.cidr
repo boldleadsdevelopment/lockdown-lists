@@ -1,7 +1,7 @@
-; Spamhaus DROP List 2017/09/02 - (c) 2017 The Spamhaus Project
+; Spamhaus DROP List 2017/09/03 - (c) 2017 The Spamhaus Project
 ; https://www.spamhaus.org/drop/drop.txt
 ; Last-Modified: Wed, 30 Aug 2017 23:35:41 GMT
-; Expires: Sat, 02 Sep 2017 06:52:17 GMT
+; Expires: Sun, 03 Sep 2017 07:14:55 GMT
 1.10.16.0/20 ; SBL256894
 1.32.128.0/18 ; SBL286275
 5.8.37.0/24 ; SBL284078
