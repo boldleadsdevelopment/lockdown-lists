@@ -1,7 +1,7 @@
-; Spamhaus EDROP List 2017/09/05 - (c) 2017 The Spamhaus Project
+; Spamhaus EDROP List 2017/09/06 - (c) 2017 The Spamhaus Project
 ; https://www.spamhaus.org/drop/edrop.txt
 ; Last-Modified: Fri, 25 Aug 2017 21:25:37 GMT
-; Expires: Wed, 06 Sep 2017 01:19:48 GMT
+; Expires: Thu, 07 Sep 2017 02:32:23 GMT
 24.233.0.0/21 ; SBL356227
 27.112.32.0/19 ; SBL237955
 37.9.53.0/24 ; SBL273113
@@ -43,8 +43,6 @@
 153.85.0.0/16 ; SBL258301
 154.16.49.0/24 ; SBL357373
 154.119.34.0/23 ; SBL312759
-157.122.147.0/24 ; SBL307113
-157.122.148.0/24 ; SBL298406
 185.103.252.0/23 ; SBL295234
 185.106.92.0/24 ; SBL295232
 185.112.102.0/24 ; SBL295231
