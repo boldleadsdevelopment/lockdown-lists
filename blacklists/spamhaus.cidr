@@ -1,7 +1,7 @@
-; Spamhaus DROP List 2018/08/30 - (c) 2018 The Spamhaus Project
+; Spamhaus DROP List 2018/08/31 - (c) 2018 The Spamhaus Project
 ; https://www.spamhaus.org/drop/drop.txt
-; Last-Modified: Fri, 24 Aug 2018 22:27:11 GMT
-; Expires: Thu, 30 Aug 2018 06:42:59 GMT
+; Last-Modified: Thu, 30 Aug 2018 20:53:12 GMT
+; Expires: Fri, 31 Aug 2018 06:49:54 GMT
 1.10.16.0/20 ; SBL256894
 1.32.128.0/18 ; SBL286275
 5.8.37.0/24 ; SBL284078
@@ -798,7 +798,6 @@
 207.178.64.0/19 ; SBL287738
 207.183.192.0/19 ; SBL104254
 207.226.192.0/20 ; SBL189463
-207.234.0.0/17 ; SBL184714
 208.93.4.0/22 ; SBL209467
 208.117.88.0/22 ; SBL293132
 208.117.92.0/24 ; SBL293131
