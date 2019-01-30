@@ -1,7 +1,7 @@
-; Spamhaus EDROP List 2019/01/28 - (c) 2019 The Spamhaus Project
+; Spamhaus EDROP List 2019/01/30 - (c) 2019 The Spamhaus Project
 ; https://www.spamhaus.org/drop/edrop.txt
 ; Last-Modified: Thu, 24 Jan 2019 10:11:21 GMT
-; Expires: Tue, 29 Jan 2019 21:44:08 GMT
+; Expires: Thu, 31 Jan 2019 00:24:32 GMT
 5.188.11.0/24 ; SBL402809
 5.188.207.0/24 ; SBL419952
 5.188.216.0/24 ; SBL394632
@@ -61,7 +61,6 @@
 153.85.0.0/16 ; SBL258301
 176.119.4.0/24 ; SBL423676
 176.119.7.0/24 ; SBL423677
-176.121.14.0/24 ; SBL428524
 178.57.65.0/24 ; SBL394677
 178.57.66.0/24 ; SBL394678
 178.57.67.0/24 ; SBL394679
