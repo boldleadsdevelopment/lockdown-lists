@@ -1,7 +1,7 @@
-; Spamhaus EDROP List 2020/09/02 - (c) 2020 The Spamhaus Project
+; Spamhaus EDROP List 2020/09/03 - (c) 2020 The Spamhaus Project
 ; https://www.spamhaus.org/drop/edrop.txt
 ; Last-Modified: Wed, 02 Sep 2020 15:22:37 GMT
-; Expires: Thu, 03 Sep 2020 15:22:56 GMT
+; Expires: Fri, 04 Sep 2020 09:27:40 GMT
 5.188.11.0/24 ; SBL402809
 27.112.32.0/19 ; SBL237955
 31.184.237.0/24 ; SBL419884
