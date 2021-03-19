@@ -1,7 +1,7 @@
-; Spamhaus EDROP List 2021/03/18 - (c) 2021 The Spamhaus Project
+; Spamhaus EDROP List 2021/03/19 - (c) 2021 The Spamhaus Project
 ; https://www.spamhaus.org/drop/edrop.txt
 ; Last-Modified: Fri, 05 Mar 2021 02:40:57 GMT
-; Expires: Fri, 19 Mar 2021 05:20:13 GMT
+; Expires: Sat, 20 Mar 2021 05:20:52 GMT
 5.188.11.0/24 ; SBL402809
 27.112.32.0/19 ; SBL237955
 31.132.36.0/22 ; SBL480270
